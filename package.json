@@ -1,0 +1,12 @@
+{
+  "name": "yyl-release-test",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/jackness1208/yyl-release-test.git",
+  "author": "liudaojie <liudaojie@yy.com>",
+  "license": "MIT",
+  "yyr": {
+    "publish": false,
+    "tag": false
+  }
+}
