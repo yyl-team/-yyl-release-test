@@ -3,7 +3,7 @@
   "version": "0.0.5",
   "main": "index.js",
   "repository": "https://github.com/jackness1208/yyl-release-test.git",
-  "author": "liudaojie <liudaojie@yy.com>",
+  "author": "jackness1208",
   "license": "MIT",
   "yyr": {
     "publish": false,
